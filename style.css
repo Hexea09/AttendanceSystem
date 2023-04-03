@@ -1,0 +1,58 @@
+body{
+    padding:50px;
+}
+
+.alert-danger {
+    color: #a94442;
+    background-color: #f2dede;
+    border-color: #ebccd1;
+  }
+
+  .alert {
+    padding: 15px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+      border-top-color: transparent;
+      border-right-color: transparent;
+      border-bottom-color: transparent;
+      border-left-color: transparent;
+    border-radius: 4px;
+  }
+
+  .alert-success {
+    color: #3c763d;
+    background-color: #dff0d8;
+    border-color: #d6e9c6;
+  }
+
+.container{
+    margin:0 auto;
+    padding:50px;
+    max-width: 300px;
+    background-color: ghostwhite;
+    border-radius:15px ;
+    box-shadow: 5px ;
+    border:1px solid black;
+}
+
+.form-group{
+    margin-bottom:30px; 
+}
+
+#box{
+    width: 300px;
+    height: 30px;
+    border: none;
+    border-radius: 3px;
+    padding: auto;
+
+}
+
+#submit{
+    width: 100px;
+    height: 30px;
+    border: none;
+    border-radius: 17px;
+    padding-left: 7px;
+    color: blue;
+}
